@@ -9,7 +9,7 @@
     "react-dom": "^16.6.3",
     "react-scripts": "2.1.1"
   },
-  "homepage":"https://kingbaig.github.io/react-counter",
+  "homepage":"https://usmanghanibaig.github.io/reactcounter",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
